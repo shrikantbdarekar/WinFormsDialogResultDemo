@@ -17,6 +17,8 @@ On login sussess, FormDashboard displayed.
 On Exit click, application ends.
 That's all.
 
+###############################################################
+
 Splash Form:
 This is a simple form, shows some welcome or splash message 
 regarding your application.
@@ -32,3 +34,5 @@ DialogResult.Cancel for invalid login details.
 FormDashboard:
 This form contain heading and menu. Exit menu on click closes
 application.
+
+###############################################################
