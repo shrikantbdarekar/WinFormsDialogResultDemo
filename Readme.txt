@@ -1,4 +1,3 @@
-```md
 # C# Windows Application  
 
 This is a simple C# Windows application developed using **Visual Studio 2019 Community Edition**.  
