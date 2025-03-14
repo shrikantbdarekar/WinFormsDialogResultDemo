@@ -1,11 +1,14 @@
-﻿###############################################################
-Shrikant B. Darekar
-Sadu Consultancy Services | www.saducs.com | Mob.9765975757
-###############################################################
+# C# windows application
+
+---
+
 This is a simple C# windows application developed using
 Visual Studio 2019 Community Edition,
 will be useful for beginners.
 
+--- 
+
+## DialogResult
 It shows how to use Form's "DialogResult" property.
 Application has three forms: Splash,Login,Dashboard
 
@@ -17,9 +20,9 @@ On login sussess, FormDashboard displayed.
 On Exit click, application ends.
 That's all.
 
-###############################################################
+---
 
-Splash Form:
+## Splash Form
 This is a simple form, shows some welcome or splash message 
 regarding your application.
 
@@ -31,8 +34,19 @@ database logic and set Form's "DialogResult" value as per result.
 Here we have used DialogResult.OK for valid login details and 
 DialogResult.Cancel for invalid login details.
 
-FormDashboard:
+FormDashboard
 This form contain heading and menu. Exit menu on click closes
 application.
 
-###############################################################
+---
+
+# Apply For 
+
+### Online C# Project Workshop For College Students
+https://wa.me/p/8685551258164102/919765975757
+
+### Free Project Guidance For College Students
+https://wa.me/p/7965729696887851/919765975757
+
+### Free Online Internship
+https://wa.me/p/8277870308947674/919765975757
