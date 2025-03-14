@@ -1,52 +1,53 @@
-# C# windows application
+```md
+# C# Windows Application  
+
+This is a simple C# Windows application developed using **Visual Studio 2019 Community Edition**.  
+It is useful for beginners to understand basic concepts like form navigation and `DialogResult` handling.  
 
 ---
 
-This is a simple C# windows application developed using
-Visual Studio 2019 Community Edition,
-will be useful for beginners.
+## DialogResult  
 
---- 
+This application demonstrates how to use a form's `DialogResult` property.  
 
-## DialogResult
-It shows how to use Form's "DialogResult" property.
-Application has three forms: Splash,Login,Dashboard
-
-In Program.CS, we create instance of FormSplashScreen, 
-it appears for 5 seconds.
-Then FormLogin starts execution, 
-it handles action for Login and Exit buttons.
-On login sussess, FormDashboard displayed. 
-On Exit click, application ends.
-That's all.
+### Application Flow:  
+- The application consists of three forms: **Splash Screen, Login, and Dashboard**.  
+- In `Program.cs`, an instance of `FormSplashScreen` is created, which appears for **5 seconds**.  
+- After that, `FormLogin` starts execution and handles actions for **Login** and **Exit** buttons.  
+- On **successful login**, `FormDashboard` is displayed.  
+- On **Exit** click, the application terminates.  
 
 ---
 
-## Splash Form
-This is a simple form, shows some welcome or splash message 
-regarding your application.
+## Forms Overview  
 
-Login Form:
-This form has textboxes for user id and and password. 
-Two buttons Login and Exit. 
-On Login button, user can check user id and password using 
-database logic and set Form's "DialogResult" value as per result.
-Here we have used DialogResult.OK for valid login details and 
-DialogResult.Cancel for invalid login details.
+### **Splash Form**  
+This form displays a welcome or splash message about the application.  
 
-FormDashboard
-This form contain heading and menu. Exit menu on click closes
-application.
+### **Login Form**  
+- Contains **textboxes** for **User ID** and **Password**.  
+- Two buttons: **Login** and **Exit**.  
+- On clicking **Login**, it checks the User ID and Password using database logic.  
+- The `DialogResult` property is set based on the result:  
+  - `DialogResult.OK` for **valid** login details.  
+  - `DialogResult.Cancel` for **invalid** login details.  
+
+### **FormDashboard**  
+- Contains a **heading** and a **menu**.  
+- Clicking the **Exit** menu closes the application.  
 
 ---
 
-# Apply For 
+## 📢 Apply For  
 
-### Online C# Project Workshop For College Students
-https://wa.me/p/8685551258164102/919765975757
+### 🎓 Online C# Project Workshop for College Students  
+[Join Now](https://wa.me/p/8685551258164102/919765975757)  
 
-### Free Project Guidance For College Students
-https://wa.me/p/7965729696887851/919765975757
+### 📌 Free Project Guidance for College Students  
+[Get Guidance](https://wa.me/p/7965729696887851/919765975757)  
 
-### Free Online Internship
-https://wa.me/p/8277870308947674/919765975757
+### 🚀 Free Online Internship  
+[Apply Now](https://wa.me/p/8277870308947674/919765975757)  
+
+
+
